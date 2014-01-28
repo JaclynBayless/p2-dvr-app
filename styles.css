@@ -4,4 +4,6 @@
 
 .tabs dd.active a {
 	background: #f0f;
+
+	transition: background .5s;
 }
